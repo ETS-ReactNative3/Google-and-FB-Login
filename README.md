@@ -10,9 +10,9 @@ Following Features are implemented
 * Redux
 * Redux-Thunk
 
-For Custom Login you can use [this](https://github.com/husnaintahir/nodejs-simple-rest-api) repo, as it was developed 100% for this react-native application.
+You also need [this](https://github.com/husnaintahir/nodejs-simple-rest-api) repo for custom login and saving user's basic info from Google and Facebook login, as it was developed 100% for this react-native application.
 
-Clone this/download repo, run `npm install` inside project directory to install required node_modules.
+Clone/download this repo, run `npm install` inside project directory to install required node_modules.
 
 ## iOS setup
 
@@ -48,3 +48,6 @@ Follow [this](https://github.com/react-native-community/react-native-google-sign
 Follow [this](https://developers.facebook.com/docs/android/getting-started/) guide to configure a facebook app for Android. After facebook app is created, open `app-folder/android/app/src/main/res/values/strings.xml` and replace `{your-fb-app-id}` with facebook `APP ID` and `{your-fb-login-protocol-scheme}` with `FB APP Scheme`.
 
 Before running the app make sure you have created Key Hashes and SHA1 for facebook and google login respectively. For Android, having the Key Hashes and SHA1 is  a must for production and debug both build variants.
+
+
+If you are facing any problem, just open issue, i will try my best to resolve this issue ASAP. Also you can reach me via [Twitter](https://twitter.com/imhusnain1)
