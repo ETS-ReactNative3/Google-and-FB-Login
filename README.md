@@ -1,5 +1,9 @@
 # Google and FB Login in React-Native
 
+This code is working well with `react 16.8.3`, `react-native 0.59.5`, `react-native-fbsdk 0.8.0` and `react-native-google-signin 2.0.0`.
+
+It is well tested in `iOS 12.2` and `Android 8.1`
+
 React-Native based boiler-plate code for Google, Facebook and Custom Login. All you have to do is get the required files from google firebase for ios/android for google login and an facebook app inside facebook developers for ios/android for FB Login. Further instruction for each platform is given below.
 
 Following Features are implemented
